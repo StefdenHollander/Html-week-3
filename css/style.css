@@ -10,3 +10,23 @@ color: green;
 .third{
     color: blue;
 }
+
+h1{
+    color: maroon;
+}
+
+h2{
+    color: maroon;
+}
+
+article{
+    border: 4px solid black;
+}
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: lightgrey;
+}
