@@ -30,3 +30,22 @@ article{
 body{
     background-color: lightgrey;
 }
+
+a:link {
+    color: red;
+  }
+  
+  
+  a:visited {
+    color: black;
+  }
+  
+  
+  a:hover {
+    color: hotpink;
+  }
+  
+  
+  a:active {
+    color: blue;
+  }
