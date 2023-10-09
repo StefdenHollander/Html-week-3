@@ -70,3 +70,10 @@ a:link {
   .hobby li:nth-child(7) {
     background: orange;
   }
+
+  .tabel:nth-child(odd) {
+    background: blue;
+  }
+  .tabel:nth-child(even) {
+    background: red;
+  }
